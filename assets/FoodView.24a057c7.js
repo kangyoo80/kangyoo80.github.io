@@ -1,1 +1,0 @@
-import{H as o,_ as n,r as a,o as s,c as t,a as c,b as r}from"./index.f5865964.js";const d={name:"foodView",components:{HeaderLnb:o}},_=r("div",null,"\uB9DB\uC9D1",-1);function p(i,l,m,u,f,B){const e=a("HeaderLnb");return s(),t("div",null,[c(e),_])}const H=n(d,[["render",p]]);export{H as default};

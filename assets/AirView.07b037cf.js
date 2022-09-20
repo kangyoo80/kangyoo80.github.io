@@ -1,1 +1,0 @@
-import{H as o,_ as n,r as a,o as s,c as t,a as r,b as c}from"./index.f5865964.js";const _={name:"airView",components:{HeaderLnb:o}},d=c("div",null,"\uD56D\uACF5",-1);function i(p,l,m,u,f,b){const e=a("HeaderLnb");return s(),t("div",null,[r(e),d])}const V=n(_,[["render",i]]);export{V as default};

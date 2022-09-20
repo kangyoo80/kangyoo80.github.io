@@ -1,1 +1,0 @@
-import{H as n,_ as o,r as a,o as t,c as r,a as s,b as c}from"./index.f5865964.js";const _={name:"rentcarView",components:{HeaderLnb:n}},d=c("div",null,"\uB80C\uD130\uCE74",-1);function p(i,l,u,m,f,b){const e=a("HeaderLnb");return t(),r("div",null,[s(e),d])}const H=o(_,[["render",p]]);export{H as default};

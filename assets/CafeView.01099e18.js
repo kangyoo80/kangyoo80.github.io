@@ -1,1 +1,0 @@
-import{H as o,_ as n,r as a,o as s,c as t,a as c,b as r}from"./index.f5865964.js";const _={name:"cafeView",components:{HeaderLnb:o}},d=r("div",null,"\uCE74\uD398\uD328\uC2A4",-1);function p(u,i,l,f,m,b){const e=a("HeaderLnb");return s(),t("div",null,[c(e),d])}const H=n(_,[["render",p]]);export{H as default};
