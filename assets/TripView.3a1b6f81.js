@@ -1,0 +1,1 @@
+import{H as o,_ as n,r as t,o as a,c as s,a as r,b as c}from"./index.f5865964.js";const p={name:"tripView",components:{HeaderLnb:o}},_=c("div",null,"\uD2B8\uB9BD",-1);function d(i,l,m,u,f,B){const e=t("HeaderLnb");return a(),s("div",null,[r(e),_])}const H=n(p,[["render",d]]);export{H as default};

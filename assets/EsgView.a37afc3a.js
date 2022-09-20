@@ -1,0 +1,1 @@
+import{H as o,_ as s,r as a,o as n,c as t,a as r,b as c}from"./index.f5865964.js";const d={name:"esgView",components:{Header:o}},_=c("div",null,"ESG",-1);function p(i,l,m,f,u,H){const e=a("Header");return n(),t("div",null,[r(e),_])}const $=s(d,[["render",p]]);export{$ as default};

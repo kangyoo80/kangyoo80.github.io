@@ -1,0 +1,1 @@
+import{H as o,_ as n,r as a,o as t,c as s,a as c,b as r}from"./index.f5865964.js";const _={name:"stayView",components:{HeaderLnb:o}},d=r("div",null,"\uC219\uBC15",-1);function p(i,l,m,u,f,b){const e=a("HeaderLnb");return t(),s("div",null,[c(e),d])}const H=n(_,[["render",p]]);export{H as default};
